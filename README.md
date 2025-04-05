@@ -30,6 +30,11 @@ If it involves words, logic, or creativity, count me in!
 *"Debugging life one line at a time."*  
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakuraku/yakuraku/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yakuraku/yakuraku/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yakuraku/yakuraku/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-kumar-kurakula/) 
